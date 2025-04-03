@@ -13,7 +13,7 @@
 <p align="center"> Mission: Graduate CodeCrew</p>
 
 <div align="center">
- <img src="images/240885374-58e30265-7dc2-4977-83ab-66d4d1fa6ec3.gif" alt="screams" width="375">
+ <img src="images/240885374-58e30265-7dc2-4977-83ab-66d4d1fa6ec3.gif" alt="screams" width="295">
 </div>
 
 <p align="center"> Contact Me </p>
