@@ -10,4 +10,6 @@
 <p align="center"> Aspire to become a Game Dev</p>
 <p align="center"> Mission: Graduate CodeCrew</p>
 
-<img align="center" src="images/240885374-58e30265-7dc2-4977-83ab-66d4d1fa6ec3.gif" alt="screams" width="125">
+<div align="center">
+ <img src="images/240885374-58e30265-7dc2-4977-83ab-66d4d1fa6ec3.gif" alt="screams" width="125">
+</div>
