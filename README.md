@@ -18,6 +18,6 @@
 
 <p align="center"> Contact Me </p>
 
-<p align="center"></p>
+<p align="center"> coming soon :) </p>
 <p align="center"></p>
 <p align="center"></p>
