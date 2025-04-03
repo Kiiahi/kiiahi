@@ -3,7 +3,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=520474&width=435&lines=Hi+there!+I'm+Jiyah.;Enjoy+the+content!;Proceed+with+caution.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3500&pause=888&color=520474&width=435&lines=Hi+there!+I'm+Jiyah.;Enjoy+the+content!;Proceed+with+caution.)](https://git.io/typing-svg)
 
 <p align="center"> Jiyah L Coleman</p>
 <p align="center"> I am currently: 25 yrs old</p>
